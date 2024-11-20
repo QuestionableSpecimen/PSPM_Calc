@@ -24231,7 +24231,7 @@ var SETDEX_SM ={
          ]
       }
     },
-    "Seedra":{
+    "Seadra":{
         "Swimmer Robby":{
             "level":45,
             "ability":"Sniper",
