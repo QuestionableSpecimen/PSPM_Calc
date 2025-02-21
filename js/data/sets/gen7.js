@@ -2582,7 +2582,7 @@ var SETDEX_SM ={
                 "Stone Edge",
          ]
       },
-        "Team Skull Grunts #5 (Route 17)":{
+        "Team Skull Grunts #4 and #5 (Route 17)":{
             "level":68,
             "ability":"Defiant",
             "nature":"Adamant",
@@ -3611,7 +3611,7 @@ var SETDEX_SM ={
                 "Focus Punch",
          ]
       },
-        "Ultra Recon Squad Dulse":{
+        "Ultra Recon Squad Dulse (Vast Poni Canyon)":{
             "level":85,
             "ability":"Beast Boost",
             "item":"Leftovers",
@@ -24843,7 +24843,7 @@ var SETDEX_SM ={
     },
     "Silvally-Fire":{
         "Gladion (Mount Lanakila)":{
-            "level":94,
+            "level":97,
             "ability":"RKS System",
             "item":"Fire Memory",
             "nature":"Jolly",
@@ -24862,42 +24862,39 @@ var SETDEX_SM ={
     },
     "Silvally-Grass":{
         "Gladion (Mount Lanakila)":{
-            "level":100,
+            "level":97,
             "ability":"RKS System",
             "item":"Grass Memory",
-            "nature":"Timid",
+            "nature":"Jolly",
             "evs":{
-                "sa":252,
-                "sd":4,
+                "at":252,
+                "sd":6,
                 "sp":252
             },
             "moves":[
-                "Grass Pledge",
-                "Flamethrower",
-                "Ice Beam",
-                "Parting Shot"
+                "Swords Dance",
+                "Earthquake",
+                "Extreme Speed",
+                "Multi-Attack"
             ]
         }
     },
     "Silvally-Water":{
         "Gladion (Mount Lanakila)":{
-            "level":100,
+            "level":97,
             "ability":"RKS System",
             "item":"Water Memory",
-            "nature":"Bold",
-            "ivs":{
-                "at":0
-            },
+            "nature":"Jolly",
             "evs":{
-                "hp":252,
-                "df":120,
-                "sp":136
+                "at":252,
+                "sd":6,
+                "sp":252
             },
             "moves":[
-                "Defog",
-                "Surf",
-                "Thunderbolt",
-                "Parting Shot"
+                "Swords Dance",
+                "Earthquake",
+                "Extreme Speed",
+                "Multi-Attack"
             ]
         }
     },
@@ -26452,7 +26449,7 @@ var SETDEX_SM ={
       }
     },
     "Sudowoodo":{
-        "Team Skull Grunts #4 and #5":{
+        "Team Skull Grunts #4 and #5 (Route 17)":{
             "level":68,
             "ability":"Rock Head",
             "nature":"Adamant",
